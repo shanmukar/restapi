@@ -1,107 +1,107 @@
 [
   {
-    title: 'Creative Studio',
-    description: 'Award-winning digital creative studio crafting unique brand experiences.',
-    image: 'https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&q=80&w=1200',
-    url: 'https://example.com/studio',
-    icon: <Layout className="w-6 h-6" />
+    "title": "Creative Studio",
+    "description": "Award-winning digital creative studio crafting unique brand experiences.",
+    "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&q=80&w=1200",
+    "url": "https://example.com/studio",
+    "icon": "<Layout className='w-6 h-6' />"
   },
   {
-    title: 'Tech Innovations',
-    description: 'Exploring cutting-edge technology and future innovations.',
-    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=1200',
-    url: 'https://example.com/tech',
-    icon: <Code className="w-6 h-6" />
+    "title": "Tech Innovations",
+    "description": "Exploring cutting-edge technology and future innovations.",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=1200",
+    "url": "https://example.com/tech",
+    "icon": "<Code className='w-6 h-6' />"
   },
   {
-    title: 'Design Systems',
-    description: 'Modern design systems and UI components for the digital age.',
-    image: 'https://images.unsplash.com/photo-1561070791-2526d30994b5?auto=format&fit=crop&q=80&w=1200',
-    url: 'https://example.com/design',
-    icon: <Palette className="w-6 h-6" />
+    "title": "Design Systems",
+    "description": "Modern design systems and UI components for the digital age.",
+    "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?auto=format&fit=crop&q=80&w=1200",
+    "url": "https://example.com/design",
+    "icon": "<Palette className='w-6 h-6' />"
   },
   {
-    title: 'Photography Portfolio',
-    description: 'Capturing moments and stories through the lens of creativity.',
-    image: 'https://images.unsplash.com/photo-1452587925148-ce544e77e70d?auto=format&fit=crop&q=80&w=1200',
-    url: 'https://example.com/photo',
-    icon: <Camera className="w-6 h-6" />
+    "title": "Photography Portfolio",
+    "description": "Capturing moments and stories through the lens of creativity.",
+    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?auto=format&fit=crop&q=80&w=1200",
+    "url": "https://example.com/photo",
+    "icon": "<Camera className='w-6 h-6' />"
   },
   {
-    title: 'Music Studio',
-    description: 'Professional music production and sound engineering services.',
-    image: 'https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&q=80&w=1200',
-    url: 'https://example.com/music',
-    icon: <Music className="w-6 h-6" />
+    "title": "Music Studio",
+    "description": "Professional music production and sound engineering services.",
+    "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&q=80&w=1200",
+    "url": "https://example.com/music",
+    "icon": "<Music className='w-6 h-6' />"
   },
   {
-    title: 'Digital Library',
-    description: 'Vast collection of digital resources and educational content.',
-    image: 'https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&q=80&w=1200',
-    url: 'https://example.com/library',
-    icon: <Book className="w-6 h-6" />
+    "title": "Digital Library",
+    "description": "Vast collection of digital resources and educational content.",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&q=80&w=1200",
+    "url": "https://example.com/library",
+    "icon": "<Book className='w-6 h-6' />"
   },
   {
-    title: 'Film Production',
-    description: 'Independent film production company creating compelling stories.',
-    image: 'https://images.unsplash.com/photo-1478720568477-152d9b164e26?auto=format&fit=crop&q=80&w=1200',
-    url: 'https://example.com/film',
-    icon: <Film className="w-6 h-6" />
+    "title": "Film Production",
+    "description": "Independent film production company creating compelling stories.",
+    "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?auto=format&fit=crop&q=80&w=1200",
+    "url": "https://example.com/film",
+    "icon": "<Film className='w-6 h-6' />"
   },
   {
-    title: 'E-Commerce Platform',
-    description: 'Modern shopping experience with curated products.',
-    image: 'https://images.unsplash.com/photo-1472851294608-062f824d29cc?auto=format&fit=crop&q=80&w=1200',
-    url: 'https://example.com/shop',
-    icon: <ShoppingCart className="w-6 h-6" />
+    "title": "E-Commerce Platform",
+    "description": "Modern shopping experience with curated products.",
+    "image": "https://images.unsplash.com/photo-1472851294608-062f824d29cc?auto=format&fit=crop&q=80&w=1200",
+    "url": "https://example.com/shop",
+    "icon": "<ShoppingCart className='w-6 h-6' />"
   },
   {
-    title: 'Travel Blog',
-    description: 'Exploring the world and sharing unique travel experiences.',
-    image: 'https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&q=80&w=1200',
-    url: 'https://example.com/travel',
-    icon: <Globe className="w-6 h-6" />
+    "title": "Travel Blog",
+    "description": "Exploring the world and sharing unique travel experiences.",
+    "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&q=80&w=1200",
+    "url": "https://example.com/travel",
+    "icon": "<Globe className='w-6 h-6' />"
   },
   {
-    title: 'Business Solutions',
-    description: 'Enterprise software solutions for modern businesses.',
-    image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=1200',
-    url: 'https://example.com/business',
-    icon: <Briefcase className="w-6 h-6" />
+    "title": "Business Solutions",
+    "description": "Enterprise software solutions for modern businesses.",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=1200",
+    "url": "https://example.com/business",
+    "icon": "<Briefcase className='w-6 h-6' />"
   },
   {
-    title: 'Wellness Center',
-    description: 'Holistic approach to health and wellness living.',
-    image: 'https://images.unsplash.com/photo-1545205597-3d9d02c29597?auto=format&fit=crop&q=80&w=1200',
-    url: 'https://example.com/wellness',
-    icon: <Heart className="w-6 h-6" />
+    "title": "Wellness Center",
+    "description": "Holistic approach to health and wellness living.",
+    "image": "https://images.unsplash.com/photo-1545205597-3d9d02c29597?auto=format&fit=crop&q=80&w=1200",
+    "url": "https://example.com/wellness",
+    "icon": "<Heart className='w-6 h-6' />"
   },
   {
-    title: 'Coffee Culture',
-    description: 'Exploring artisanal coffee and café culture worldwide.',
-    image: 'https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&q=80&w=1200',
-    url: 'https://example.com/coffee',
-    icon: <Coffee className="w-6 h-6" />
+    "title": "Coffee Culture",
+    "description": "Exploring artisanal coffee and café culture worldwide.",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&q=80&w=1200",
+    "url": "https://example.com/coffee",
+    "icon": "<Coffee className='w-6 h-6' />"
   },
   {
-    title: 'Gaming Portal',
-    description: 'Latest gaming news, reviews, and community content.',
-    image: 'https://images.unsplash.com/photo-1538481199705-c710c4e965fc?auto=format&fit=crop&q=80&w=1200',
-    url: 'https://example.com/gaming',
-    icon: <Gamepad className="w-6 h-6" />
+    "title": "Gaming Portal",
+    "description": "Latest gaming news, reviews, and community content.",
+    "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?auto=format&fit=crop&q=80&w=1200",
+    "url": "https://example.com/gaming",
+    "icon": "<Gamepad className='w-6 h-6' />"
   },
   {
-    title: 'Creative Writing',
-    description: 'Platform for writers to share stories and connect.',
-    image: 'https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&q=80&w=1200',
-    url: 'https://example.com/writing',
-    icon: <Pen className="w-6 h-6" />
+    "title": "Creative Writing",
+    "description": "Platform for writers to share stories and connect.",
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&q=80&w=1200",
+    "url": "https://example.com/writing",
+    "icon": "<Pen className='w-6 h-6' />"
   },
   {
-    title: 'Digital Art Gallery',
-    description: 'Showcasing digital art and NFT collections.',
-    image: 'https://images.unsplash.com/photo-1561070791-2526d30994b5?auto=format&fit=crop&q=80&w=1200',
-    url: 'https://example.com/gallery',
-    icon: <Palette className="w-6 h-6" />
+    "title": "Digital Art Gallery",
+    "description": "Showcasing digital art and NFT collections.",
+    "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?auto=format&fit=crop&q=80&w=1200",
+    "url": "https://example.com/gallery",
+    "icon": "<Palette className='w-6 h-6' />"
   }
 ]
