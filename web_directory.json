@@ -17,7 +17,7 @@
   },
   {
     "title": "Design Systems",
-    "type": "Design",
+    "type": "Creative",
     "description": "Modern design systems and UI components for the digital age.",
     "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?auto=format&fit=crop&q=80&w=1200",
     "url": "https://example.com/design",
@@ -25,7 +25,7 @@
   },
   {
     "title": "Photography Portfolio",
-    "type": "Photography",
+    "type": "Creative",
     "description": "Capturing moments and stories through the lens of creativity.",
     "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?auto=format&fit=crop&q=80&w=1200",
     "url": "https://example.com/photo",
@@ -33,7 +33,7 @@
   },
   {
     "title": "Music Studio",
-    "type": "Music",
+    "type": "Creative",
     "description": "Professional music production and sound engineering services.",
     "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&q=80&w=1200",
     "url": "https://example.com/music",
@@ -49,7 +49,7 @@
   },
   {
     "title": "Film Production",
-    "type": "Film",
+    "type": "Creative",
     "description": "Independent film production company creating compelling stories.",
     "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?auto=format&fit=crop&q=80&w=1200",
     "url": "https://example.com/film",
@@ -57,7 +57,7 @@
   },
   {
     "title": "E-Commerce Platform",
-    "type": "E-Commerce",
+    "type": "Business",
     "description": "Modern shopping experience with curated products.",
     "image": "https://images.unsplash.com/photo-1472851294608-062f824d29cc?auto=format&fit=crop&q=80&w=1200",
     "url": "https://example.com/shop",
@@ -65,7 +65,7 @@
   },
   {
     "title": "Travel Blog",
-    "type": "Travel",
+    "type": "Lifestyle",
     "description": "Exploring the world and sharing unique travel experiences.",
     "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&q=80&w=1200",
     "url": "https://example.com/travel",
@@ -81,7 +81,7 @@
   },
   {
     "title": "Wellness Center",
-    "type": "Wellness",
+    "type": "Lifestyle",
     "description": "Holistic approach to health and wellness living.",
     "image": "https://images.unsplash.com/photo-1545205597-3d9d02c29597?auto=format&fit=crop&q=80&w=1200",
     "url": "https://example.com/wellness",
@@ -89,7 +89,7 @@
   },
   {
     "title": "Coffee Culture",
-    "type": "Food & Drink",
+    "type": "Lifestyle",
     "description": "Exploring artisanal coffee and café culture worldwide.",
     "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&q=80&w=1200",
     "url": "https://example.com/coffee",
@@ -97,7 +97,7 @@
   },
   {
     "title": "Gaming Portal",
-    "type": "Gaming",
+    "type": "Entertainment",
     "description": "Latest gaming news, reviews, and community content.",
     "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?auto=format&fit=crop&q=80&w=1200",
     "url": "https://example.com/gaming",
@@ -105,7 +105,7 @@
   },
   {
     "title": "Creative Writing",
-    "type": "Writing",
+    "type": "Creative",
     "description": "Platform for writers to share stories and connect.",
     "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&q=80&w=1200",
     "url": "https://example.com/writing",
@@ -113,7 +113,7 @@
   },
   {
     "title": "Digital Art Gallery",
-    "type": "Art",
+    "type": "Creative",
     "description": "Showcasing digital art and NFT collections.",
     "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?auto=format&fit=crop&q=80&w=1200",
     "url": "https://example.com/gallery",
